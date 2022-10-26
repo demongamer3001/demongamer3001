@@ -15,7 +15,6 @@
 #
 # Contact
 ### Discord: **userrname#7395**
-### Email: **business.demongamer3001@gmail.com**
 
 <!--
 **demongamer3001/demongamer3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
